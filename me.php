@@ -1,3 +1,3 @@
 <?php
-    echo '<b>Sujan Rokad, 000882948</b>';
+    echo '<b><i>Sujan Rokad, 000882948</i></b>';
 ?>    
